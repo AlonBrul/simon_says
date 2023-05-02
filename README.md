@@ -7,7 +7,7 @@ The game creates a series of tones and lights out of four colored buttons and re
 If the user succeeds, the series becomes progressively longer and more complex. Once the user fails, the game is over.
 ## skills used in the project:
 * python
-* sql
-* design patterns - MVC, Memento, OOP.
+* SQL - saving users socres with SQLite
+* design patterns - MVC, Memento - previous level managment, OOP.
 * functional programing
 </div>
